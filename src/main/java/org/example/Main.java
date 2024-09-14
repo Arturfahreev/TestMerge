@@ -8,9 +8,5 @@ public class Main {
         }
         System.out.println("Hello from Feature");
         System.out.println("Hello from Feature changes 2");
-
-
-
-        System.out.println("Hello from Main, changes 3");
     }
 }
