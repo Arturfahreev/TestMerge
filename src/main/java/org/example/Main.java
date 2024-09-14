@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Hello from Feature changes 5");
         System.out.println("Hello from FEATURE changes 6");
         System.out.println("Hello from FEATURE changes 7");
+        System.out.println("Hello from FEATURE changes 8");
     }
 }
